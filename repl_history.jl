@@ -655,3 +655,15 @@
 # time: 2022-04-05 16:14:59 CEST
 # mode: julia
 	plt.plot(r.tobs, r.F * r.psi0)
+# time: 2022-04-05 17:32:58 CEST
+# mode: pkg
+	add Plots
+# time: 2022-04-05 17:36:08 CEST
+# mode: pkg
+	remove DifferentialEquations
+# time: 2022-04-05 17:40:14 CEST
+# mode: pkg
+	add PlotThemes GR
+# time: 2022-04-05 17:40:56 CEST
+# mode: pkg
+	remove PyPlot
