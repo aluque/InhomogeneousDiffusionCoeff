@@ -1,0 +1,6 @@
+[deps]
+DifferentialEquations = "0c46a032-eb83-5123-abaf-570d42b7fbaa"
+MLJLinearModels = "6ee0df7b-362f-4a72-a706-9e79364fb692"
+NonNegLeastSquares = "b7351bd1-99d9-5c5d-8786-f205a815c4d7"
+Optim = "429524aa-4258-5aef-a3af-852621145aeb"
+PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"
